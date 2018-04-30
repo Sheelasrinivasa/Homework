@@ -16,7 +16,7 @@ Function UniqueTickers()
 'For last row count of Ticker column
     Dim AlastRow As Long
 'For last row count of Target Ticker column
-    Dim IlastRow As Long
+    Dim TargetCounter As Long
     
     SheetArray(1) = "2015"
     SheetArray(2) = "2016"
